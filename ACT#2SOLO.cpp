@@ -1,4 +1,3 @@
-// Online C++ compiler to run C++ program online
 #include <iostream>
 #include <string>
 using namespace std;
@@ -22,3 +21,4 @@ int main() {
     cout << endl << "Hi! I'm " << fullname << " of " << cys << ". Welcome to Data Structures and Algorithm! "<< endl
     << "My Birthday is on " << birthday << ". and my motto/motivation in life is " << motto;
 }
+
